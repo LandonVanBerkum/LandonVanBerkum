@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LandonVanBerkum
+- 👀 I’m interested in the digital humanities, logic puzzles, and competitive programming
+- 🌱 I’m currently learning Elixir/Functional Programming
+- 💞️ I’m looking to collaborate on anything chess/go/logic/numbertheory related
+- 📫 Email me at lvanberk5153@gmail.com
